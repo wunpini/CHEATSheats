@@ -12,6 +12,8 @@ A Collection of links to Cheatsheats on different programming Languages, Paradig
 * [Expert JavaScript](http://www.apress.com/9781430260974) -- Mark E. Daggett
 * [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix) -- Reginald Braithwaite
 * [Learning ECMAScript 6](http://shop.oreilly.com/product/9781785884443.do) -- Narayan Prusty
-* [ES6 in depth](https://ponyfoo.com/articles/tagged/es6-in-depth) -- Nicolas Bevacqua
+* [Composing Javascript Software: Series](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea) -- Eric Elliott
 * [Universal Javascript App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/) -- Eric Elliott
+* [ES6 in depth](https://ponyfoo.com/articles/tagged/es6-in-depth) -- Nicolas Bevacqua
+
 
